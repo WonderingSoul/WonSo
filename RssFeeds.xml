@@ -3,6 +3,16 @@
   <!--RSS feeds. To have multiple feeds, just add a feed to the set. You can also have multiple sets.-->
   <!--To use different sets in your skin, each must be called from skin with a unique id.-->
   <set id="1">
-    <feed updateinterval="30">https://drive.google.com/open?id=1srqmncODjua5UnUY1hXzEiNAXuVKi3u2</feed>
+    <feed updateinterval="30">https://raw.githubusercontent.com/WonderingSoul/WonSo/master/RssFeeds.xml</feed>
+     <feed updateinterval="30">http://www.astroawani.com/rss/latest/public</feed>
+  </set>
+  <set id="2">
+    <feed updateinterval="30">http://www.hmetro.com.my/utama.xml</feed>
+  </set>
+  <set id="3">
+    <feed updateinterval="30">http://www.astroawani.com/rss/latest/public</feed>
+  </set>
+  <set id="4">
+    <feed updateinterval="30">http://www.hmetro.com.my/global.xml</feed>
   </set>
 </rssfeeds>
